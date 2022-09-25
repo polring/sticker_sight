@@ -13,7 +13,7 @@
 <p>저희가 개발한 프로그램을 이용하여 대구시의 상징 캐릭터를 알리고 대구에 관광객을 유치 대구의 발전에 조금이라도 기여하고자 이 프로그램을 개발하게 되었습니다</p>
 <img src="https://github.com/sang-hash/daegu-sight/blob/main/image/img.png"/>
 
-<
+
   
 ### 팀명 : 심컴남자들
 
