@@ -19,7 +19,7 @@
 
 <img src="https://github.com/sang-hash/daegu-sight/blob/main/image/img.png"/>
 
-
-
+### 유튜브 시연 영상 링크
+(https://youtu.be/07Fm0sx4bgc/)
 
 
