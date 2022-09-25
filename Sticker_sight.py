@@ -513,6 +513,7 @@ def Sticker():
     pass
 
 def Con():
+    global W
     clear()
     pic = cv2.imread(file_dir, cv2.IMREAD_UNCHANGED)
     P_HEIGHT, P_WIDTH, _ = pic.shape
